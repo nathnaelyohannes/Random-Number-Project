@@ -1,15 +1,3 @@
-/*
- * Class: CMSC203 31569
- * Instructor: Ahmed Tarek
- * Description: (Give a brief description for each Class)
- * Due: 02/21/2023
- * Platform/compiler: Eclipse
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Nathnael Yohannes
-*/
-
 
 import java.util.Random;
 import java.util.Scanner;
